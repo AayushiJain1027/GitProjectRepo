@@ -1,7 +1,7 @@
 Hello World!!!
 
 
-Change 1-> Login Feature enhancement WI4 by team mate to test three way merge
+Change 1: -> Login Feature enhancement WI4 by team mate to test three way merge
 
 Change 2: -> Logout Feature
 
@@ -12,7 +12,6 @@ Change 4: -> Bug1 Fix
 
 Change 5: -> Made by team mate for WI4
 
-
-
 Change 6: -> Bug2 Fix
 
+Change 7" ->by teammate for WI5 to test rebase merging w/o conflict
